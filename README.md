@@ -21,7 +21,7 @@ sudo dnf install zsh git
 ```shell
 sudo apt install zsh git
 ```
-## 2. Changing default shell from bash to zsh 
+### 2. Changing default shell from bash to zsh 
 ```shell
 chsh -s /usr/bin/zsh
 ```
